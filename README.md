@@ -16,18 +16,18 @@ Provide consistent classification across all articles.
 We will build a classification model to assign a resource type label (e.g., "academic source", "news", "blog", "government document") to a given web page.
 The model will:
 
-Analyze page text, metadata, and structure.
+i)Analyze page text, metadata, and structure.
 
-Predict the correct resource category.
+ii)Predict the correct resource category.
 
-Rank or filter sources for Wikipedia editors.
+iii)Rank or filter sources for Wikipedia editors.
 
-Initial Project Success Criteria
+4. Initial Project Success Criteria
 
-Achieve at least 85% classification accuracy on a labeled test dataset.
+i)Achieve at least 85% classification accuracy on a labeled test dataset.
 
-Classify each page in under 3 seconds.
+ii)Classify each page in under 3 seconds.
 
-Produce categories that are distinct, interpretable, and easy for humans to verify.
+iii)Produce categories that are distinct, interpretable, and easy for humans to verify.
 
-Generalize well to new, unseen sources.
+iv)Generalize well to new, unseen sources.

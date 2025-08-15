@@ -1,6 +1,7 @@
 1. Business Understanding
 
 Problem Statement
+
 Wikipedia relies heavily on high-quality, credible sources to maintain its status as a trusted information platform. Currently, finding and verifying suitable web pages is manual and time-consuming, leading to inconsistent citation quality. An automated system that can classify web pages by resource type (e.g., academic journal, news article, blog, government report) can help editors quickly identify appropriate sources, improving efficiency and reliability.
 
 2. Business Objectives

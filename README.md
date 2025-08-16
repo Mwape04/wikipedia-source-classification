@@ -34,3 +34,4 @@ iii)Produce categories that are distinct, interpretable, and easy for humans to 
 iv)Generalize well to new, unseen sources.
 
 This initiative will ultimately streamline the citation workflow for Wikipedia editors by providing a scalable and intelligent approach to source classification. By leveraging data mining techniques, we aim to enhance both efficiency and reliability across the entire citation lifecycle.
+

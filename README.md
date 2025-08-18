@@ -22,8 +22,8 @@ The model will:
 
 i) Analyze page text, metadata, and structure.  
 ii) Predict the correct resource category.  
-iii) Rank or filter sources for Wikipedia editors.  
-iv) Build in a confidence score for each classification so editors know when to double-check.  
+iii) Rank or filter sources for Wikipedia editors.
+iv) Build in a confidence score for each classification so editors know when to double-check.
 v) Identify and flag sources with low credibility or potential bias.
 vi) Adapt to evolving source types (e.g., emerging media formats) via periodic model retraining.
 vii) Support incremental learning to incorporate editor feedback over time.
@@ -35,11 +35,8 @@ ii) Classify each page in under 3 seconds.
 iii) Produce categories that are distinct, interpretable, and easy for humans to verify.
 iv) Generalize well to new, unseen sources.
 v) Successful integration with a prototype plugin/tool for editors within the project timeline.
-
 vi) Achieve >90% precision for high-stakes categories (for example, academic/government sources).
-
 vii) Maintain false-positive rates below 5% for unreliable source types.
-
 viii) Demonstrate scalability by processing 10,000+ pages/hour in a test environment.  
 
 This initiative will ultimately streamline the citation workflow for Wikipedia editors by providing a scalable and intelligent approach to source classification. By leveraging data mining techniques, we aim to enhance both efficiency and reliability across the entire citation lifecycle.

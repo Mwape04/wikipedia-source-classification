@@ -32,11 +32,14 @@ vii) Support incremental learning to incorporate editor feedback over time.
 
 i) Achieve at least 85% classification accuracy on a labeled test dataset.  
 ii) Classify each page in under 3 seconds.  
-iii) Produce categories that are distinct, interpretable, and easy for humans to verify.  
-iv) Generalize well to new, unseen sources.  
-v) Successful integration with a prototype plugin/tool for editors within the project timeline.  
-vi) Achieve >90% precision for high-stakes categories (e.g., academic/government sources).
-vii) Maintain false-positive rates below 5% for unreliable source types. 
+iii) Produce categories that are distinct, interpretable, and easy for humans to verify.
+iv) Generalize well to new, unseen sources.
+v) Successful integration with a prototype plugin/tool for editors within the project timeline.
+
+vi) Achieve >90% precision for high-stakes categories (for example, academic/government sources).
+
+vii) Maintain false-positive rates below 5% for unreliable source types.
+
 viii) Demonstrate scalability by processing 10,000+ pages/hour in a test environment.  
 
 This initiative will ultimately streamline the citation workflow for Wikipedia editors by providing a scalable and intelligent approach to source classification. By leveraging data mining techniques, we aim to enhance both efficiency and reliability across the entire citation lifecycle.

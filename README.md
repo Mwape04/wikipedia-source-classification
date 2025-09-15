@@ -1,3 +1,16 @@
+# Wikipedia Source Classification
+
+A machine learning project that classifies Wikipedia articles into categories using Random Forest algorithm.
+
+## 🚀 Quick Start
+
+```bash
+# Install dependencies
+pip install scikit-learn pandas numpy
+
+# Run classification
+python classify_articles.py
+
 1. Business Understanding  
 
 Problem Statement 
